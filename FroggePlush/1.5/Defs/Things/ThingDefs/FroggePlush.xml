@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
  <Defs>
   <ThingDefs ParentName="FurnitureWithQualityBase">
-    <defName>FroggePlush</defName>
-    <label>EHPF_Frogge_Plush</label>
+    <defName>EHPF_Frogge_Plush</defName>
+    <label>FroggePlush</label>
     <description>A stuffed animal resembling that of Frogge the bejewled, hero of old and great bed time snuggle partner</description>
     <thingClass>Building_Art</thingClass>
     <graphicData>
@@ -23,10 +23,6 @@
     <passability>PassThroughOnly</passability>
     <fillPercent>0.20</fillPercent>
     <statBases>
-      <MaxHitPoints>250</MaxHitPoints>
-      <WorkToBuild>250</WorkToBuild>
-      <Mass>2</Mass>
-      <Flammability>0</Flammability>
       <MaxHitPoints>250</MaxHitPoints>
       <WorkToBuild>3000</WorkToBuild>
       <Mass>5</Mass>
